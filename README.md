@@ -9,7 +9,6 @@ In this repository, you'll find efficient and optimized implementations of the f
 - Stack
 - Queue
 - Deque
-- EnhancedSet
 - LinkedList
 - LinkedListNode
 - DoublyLinkedList
