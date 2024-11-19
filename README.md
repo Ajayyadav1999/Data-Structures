@@ -1,6 +1,6 @@
 # Data Structures
 
-🙏 Welcome to the Data Structures repository! This repository is dedicated to implementing and solving problems related to core data structures and algorithms for the learning purposes.
+🙏 Welcome to the Data Structures repository! This repository is dedicated to implementing and solving problems related to core data structures and algorithms in Javascript for the learning purposes.
 
 ## Contents
 
